@@ -1,1 +1,7 @@
-/* Add your custom css here */
+body {
+    font-family: 'Arial', sans-serif;
+    color: white;
+    background: linear-gradient(to right, #531970, #b687cd);
+    margin: 0;
+    padding: 20px;
+}
